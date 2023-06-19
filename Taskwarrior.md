@@ -93,15 +93,29 @@ Note:
 - https://github.com/GothenburgBitFactory/taskwarrior
 - V1.0.0 2008
 
+--
+
+### language
+
+![[language.png]]
+
 ---
 
-## simplcité 👍
+## simplicité 👍
 
 ![[task_basic.png]]
 
 Note:  
 - utilisable immédiatement
 - détailler la copie écran
+
+--
+
+![[task_basic2.png]]
+
+--
+
+![[task_basic_3.png]]
 
 ---
 
@@ -220,7 +234,8 @@ note:
 
 --
 
-![[report_next.png| 100%]]
+<!-- slide bg="[[report_next_border.png]]" -->
+
 
 Note: 
 `task color legend`
@@ -330,7 +345,6 @@ Created task 73.
 -  `sudo apt install taskwarrior` / <br/> `brew install taskwarrior`
 
 *...des questions ?*
-En quel language écrit
 
 ---
 
@@ -341,7 +355,10 @@ nicolas.bossard@machboboss.ovh
 ![[mastodon.jpg| 60x]]
 @nbossard@mastodon.iriseden.eu
 
-TODO : lien repo
+slides :
+<https://github.com/nbossard/taskwarrior_pres>
+
+![[qrcode_repo.png| 200x]]
 
 ---
 
